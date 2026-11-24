@@ -1,0 +1,24 @@
+{
+  "name": "webapp-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandrine-Ira/WebApp-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sandrine-Ira/WebApp-Project/issues"
+  },
+  "homepage": "https://github.com/Sandrine-Ira/WebApp-Project#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
